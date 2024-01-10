@@ -5,6 +5,8 @@
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-100%20Days%20Challenge-brightgreen)
 
+![Machine Learning](https://media.geeksforgeeks.org/wp-content/uploads/20230505175603/100-Days-of-Machine-Learning.webp)
+
 Welcome to my 100 Days of Machine Learning Challenge repository! 🚀
 
 ## Overview
